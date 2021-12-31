@@ -1,6 +1,6 @@
 ### _Welcome to my GitHub!_
 
-Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've profound knowledge in <i>Python,DSA</i>. I love to solve problems and highly enthusiastic about learning new things and trying out new ideas. Furthermore, I am passionate about Learning new technologies and like to learn anything about different programming languages, frameworks, algorithms, data structures, design patterns.
+Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've profound knowledge in <i>Python,DSA</i>. I love to solve problems and highly enthusiastic about learning new things and trying out new ideas. Furthermore, I am passionate about learning new technologies and like to learn anything about different programming languages, frameworks, algorithms, data structures, design patterns.
 
 &nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/benarjee-sambangi)
