@@ -49,4 +49,4 @@ Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've pr
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=X0rD3v1L&show_icons=true&include_all_commits=true" width="425"/>
  -->
  
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=X0r_D3v1L&font=patrick_hand&width=425)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=X0r_D3v1L&font=patrick_hand&extension=null&width=425)
