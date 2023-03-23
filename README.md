@@ -29,7 +29,7 @@ Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've pr
      <b>🌱 Getting better at:  </b>  Application UI,Coding patterns.
    </li>
   <li>
-     <b>🤔 Exploring: </b> Web 3.0.
+     <b>🤔 Exploring: </b> Solana, Rust.
    </li>
    <li>
       <b>⚗️ Experimenting on: </b> Improving the efficiency of my code.
