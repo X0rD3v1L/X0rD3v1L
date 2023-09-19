@@ -1,6 +1,6 @@
 ### _Welcome!_
 
-Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've profound knowledge in <i>ReactJS, Python, DSA</i>. I love to solve problems and highly enthusiastic about learning new things and trying out new ideas. Furthermore, I am passionate about learning new technologies and like to learn anything about different programming languages, frameworks, algorithms, data structures, design patterns.
+Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've profound knowledge in <i>ReactJS, Python, DSA</i>. I love to solve problems and highly enthusiastic about learning new things and trying out new ideas. Furthermore, I am passionate about learning new technologies and like to learn anything about different programming languages, frameworks, algorithms, data structures, blockchain.
 
 &nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/benarjee-sambangi)
@@ -90,7 +90,4 @@ Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've pr
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x0rd3v1l&show_icons=true&locale=en&layout=compact" alt="x0rd3v1l" /></p>
-
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=X0r_D3v1L&style=dark)
-
 
