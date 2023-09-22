@@ -56,9 +56,6 @@ Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've pr
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
   </a>
-  
-  
-  
 </p>
 
 </p>
@@ -87,7 +84,3 @@ Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've pr
      <b>⚡ Fun fact:  </b> Ain't no love like the love of a biryani.
    </li>
 </ul>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x0rd3v1l&show_icons=true&locale=en&layout=compact" alt="x0rd3v1l" /></p>
-
