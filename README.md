@@ -68,19 +68,8 @@ Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've pr
    </li>
   <li>
      <b>🤔 Exploring: </b> Solana, Rust.
-   </li>
-   <li>
-      <b>⚗️ Experimenting on: </b> Improving the efficiency of my code.
-   </li>
-   <li>
-     <b>💬 Ask me about: </b> Anything tech related.
-   </li>
- 
+  </li>
    <li>
      <b>📫 How to reach me: </b> shoot a mail.
-   </li>
-   
-   <li>
-     <b>⚡ Fun fact:  </b> Ain't no love like the love of a biryani.
    </li>
 </ul>
