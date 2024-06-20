@@ -70,7 +70,7 @@ Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've pr
      <b>🌱 Getting better at:  </b>  Application UI,Coding patterns.
    </li>
   <li>
-     <b>🤔 Exploring: </b> Solana, Rust.
+     <b>🤔 Exploring: </b> Solana, zk.
   </li>
    <li>
      <b>📫 How to reach me: </b> shoot a mail.
