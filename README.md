@@ -1,26 +1,37 @@
 ### _Welcome!_
 
-Hey, This is <b>Benarjee Sambangi</b>, and welcome to my Github profile. I've profound knowledge in <i>ReactJS, Python, DSA</i>. I love to solve problems and highly enthusiastic about learning new things and trying out new ideas. Furthermore, I am passionate about learning new technologies and like to learn anything about different programming languages, frameworks, algorithms, data structures, blockchain.
+Hey, This is **Benarjee Sambangi**, and welcome to my GitHub profile! I am skilled in **Rust, Python, ReactJS**, with a strong foundation in **Data Structures and Algorithms**. I am passionate about solving problems and thrive on learning new technologies and exploring innovative ideas. My interests span across **smart contract development and security**, programming languages, frameworks, algorithms, and creating efficient, scalable solutions in **frontend** domains. I write about my learnings in my personal blog <a href="https://benarjeesambangi.zeabur.app/"> benarjeesambangi.zeabur.app </a>
+
 
 &nbsp;
-<a href="https://www.linkedin.com/in/benarjee-sambangi/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ben | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/benarjee-sambangi/">
+    <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ben | LinkedIn" width="21px"/>
+</a>
 &nbsp;
-<a href="https://x.com/X0r_D3v1L"><img align="left" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png" alt="Ben | X" width="21px"/></a>
+<a href="https://x.com/X0r_D3v1L">
+    <img align="left" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png" alt="Ben | X" width="21px"/>
+</a>
+&nbsp;
+<a href="https://t.me/x0rd3v1l">
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Ben | Telegram" width="21px"/>
+</a>
+
 ## Skill set:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,rust,wasm,java,py,git,jest,linux)](https://skillicons.dev)
 
 <ul>
 <li>
-  <b>🔭 Currently working on:</b> Rust.
+  <b>🔭 Currently working on:</b> Rust, Bitcoin.
    </li>
   <li>
-     <b>🌱 Getting better at:  </b>  Math, Cryptography.
+     <b>🌱 Getting better at:  </b>  Security, Math, Cryptography.
    </li>
   <li>
      <b>🤔 Exploring: </b> Solana, zk.
   </li>
-   <li>
-     <b>📫 How to reach me: </b> shoot a mail.
-   </li>
+  <li>
+    <b>📫 How to reach me: </b> <a href="mailto:sbenarjee7@gmail.com">shoot a mail</a>.
+  </li>
+
 </ul>
