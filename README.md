@@ -1,6 +1,20 @@
 ### _Welcome!_
 
-Hey, This is **Benarjee Sambangi**, and welcome to my GitHub profile! I am skilled in **Rust, Python, ReactJS**, with a strong foundation in **Data Structures and Algorithms**. I am passionate about solving problems and thrive on learning new technologies and exploring innovative ideas. My interests span across **smart contract development and security**, programming languages, frameworks, algorithms, and creating efficient, scalable solutions in **frontend** domains. I write about my learnings in my personal blog <a href="https://benarjeesambangi.zeabur.app/"> benarjeesambangi.zeabur.app </a>
+# Hey, This is **Benarjee Sambangi** 👋
+
+I am skilled in **Rust**, **Python**, and **ReactJS**, with a strong foundation in **Data Structures and Algorithms**.  
+I am passionate about solving problems and thrive on learning new technologies and exploring innovative ideas.  
+
+My interests span across:
+- **Smart contract development and security**  
+- Programming languages and frameworks  
+- Algorithms and creating efficient, scalable solutions in **frontend** domains  
+
+I also write about my learnings in my personal blog:  
+[benarjeesambangi.zeabur.app](https://benarjeesambangi.zeabur.app)
+
+Feel free to connect and explore my repositories! 🚀
+
 
 
 &nbsp;
