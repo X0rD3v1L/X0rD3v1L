@@ -11,7 +11,7 @@ My interests span across:
 - Algorithms and creating efficient, scalable solutions in **frontend** domains  
 
 I also write about my learnings in my personal blog:  
-[benarjeesambangi.zeabur.app](https://benarjeesambangi.zeabur.app)
+[https://x0rd3v1l.github.io](https://x0rd3v1l.github.io/)
 
 Feel free to connect and explore my repositories! 🚀
 
