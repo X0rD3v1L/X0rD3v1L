@@ -36,7 +36,7 @@ Feel free to connect and explore my repositories! 🚀
 
 <ul>
 <li>
-  <b>🔭 Currently working on:</b> Rust, Bitcoin.
+  <b>🔭 Currently working on:</b> Rust, Solana.
    </li>
   <li>
      <b>🌱 Getting better at:  </b>  Security, Math, Cryptography.
